@@ -1,0 +1,19 @@
+{
+  "name": "emoji-battle",
+  "version": "1.0.0",
+  "description": "[clicking beer bottles together] Waaaarrrrrriiiorsss, come out to pla-ay!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbox/emoji-battle.git"
+  },
+  "author": "static-dev.slack.com#emoji-battle",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/dbox/emoji-battle/issues"
+  },
+  "homepage": "https://github.com/dbox/emoji-battle#readme"
+}
